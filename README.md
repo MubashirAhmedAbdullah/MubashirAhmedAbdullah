@@ -1,33 +1,54 @@
-<h1 align="center">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+# Hi there, I'm [Your Name] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbilal-09&label=Profile%20views&color=0e75b6&style=flat" alt="mbilal-09" /> </p>
+Welcome to my GitHub profile! I'm a passionate [Your Profession/Developer/Designer/etc.] with a love for [mention your favorite technologies, skills, or hobbies]. I enjoy working on [type of projects you enjoy] and continuously learning about new tools and technologies.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbilal-09" alt="mbilal-09" /></a> </p>
+## 🚀 About Me
 
-<img align="right" alt="Coding GIF" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+- 🔭 I’m currently working on [Current Project or Focus Area]
+- 🌱 I’m currently learning [New Technology or Skill you're focusing on]
+- 👯 I’m looking to collaborate on [mention any specific areas or project types you’re interested in]
+- 🤔 I’m open to new opportunities in [mention your area of expertise or interest]
+- 💬 Ask me about [your expertise, topics you're happy to talk about]
+- 📄 Check out my [resume/CV](link to your resume)
+- ⚡ Fun fact: [Share something personal, a hobby, or an interesting fact]
 
-<p align="left"> <a href="https://twitter.com/mbilal_2004" target="blank"><img src="https://img.shields.io/twitter/follow/mbilal_2004?logo=twitter&style=for-the-badge" alt="mbilal_2004" /></a> </p>
+## 🛠️ Languages and Tools
 
-- 🌱 I’m currently learning **TypeScript and React Native.**
+Here are some technologies I frequently work with:
 
-- 👨‍💻 All of my projects are available at [https://mbilal.vercel.app](https://mbilal.vercel.app)
+- **Languages:** [e.g., JavaScript, Python, Java, etc.]
+- **Frameworks/Libraries:** [e.g., React, Node.js, Django, etc.]
+- **Tools:** [e.g., Git, Docker, VS Code, etc.]
+- **Database:** [e.g., MySQL, MongoDB, etc.]
 
-- 💬 Ask me about **react, next, node and react native**
+## 🌟 Some of my projects
 
-- 📫 How to reach me **bilalkhanshakir@gmail.com**
+Here are a few of the projects I've worked on:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mbilal_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbilal_2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bilal09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal09" height="30" width="40" /></a>
-<a href="https://fb.com/mbilal.2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mbilal.2004" height="30" width="40" /></a>
-</p>
+1. **[Project Name](link to project)**  
+   Description of what the project is about. Technologies used, key highlights.
+   
+2. **[Project Name](link to project)**  
+   Short description of the project. What you contributed, why it's useful, and any cool features.
+   
+3. **[Project Name](link to project)**  
+   A brief explanation of what this project does and why it’s exciting.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbilal-09&show_icons=true&locale=en&layout=compact" alt="mbilal-09" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mbilal-09&show_icons=true&locale=en" alt="mbilal-09" /></p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbilal-09&" alt="mbilal-09" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&langs_count=10&layout=compact&theme=radical)
+
+## 📫 How to reach me
+
+- 📧 Email: [your-email@example.com]
+- 🌐 Website/Portfolio: [Link to your personal site or portfolio]
+- 🐦 Twitter: [@YourTwitterHandle]
+- 💼 LinkedIn: [Your LinkedIn Profile Link]
+- 🌍 Blog: [Link to your blog, if applicable]
+
+## ⚡ Fun Stats
+
+- 🏆 I have contributed to [mention any contributions, open source, or other community-related activities]
+- 🌱 I’m always growing and learning, currently tackling [mention something you're learning right now]
