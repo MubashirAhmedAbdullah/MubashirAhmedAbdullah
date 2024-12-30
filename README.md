@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, AI , React Native**
 
-- 👨‍💻 All of my projects are available at [https://mubashirahmedabdullah.netlify.app/](https://mubashirahmedabdullah.netlify.app/)
+- 👨‍💻 My Portfolio [https://mubashirahmedabdullah.netlify.app/](https://mubashirahmedabdullah.netlify.app/)
 
 - 💬 Ask me about **ReactJS and NextJS**
 
