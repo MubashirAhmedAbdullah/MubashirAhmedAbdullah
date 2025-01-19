@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubashirahmedabdullah" alt="mubashirahmedabdullah" /></a> </p>
 
 - 🔭 I’m currently working on [Sayalani Learning Managment System](https://smit-management-system.vercel.app/stundent/dashboard)
+  
+- 🔭 I’m currently working on [Hospital Managment System](https://smarthospitalmanagmentsystem.vercel.app/)
 
 - 🌱 I’m currently learning **Python, AI , React Native**
 
